@@ -1,0 +1,19 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "iterator": "cpp",
+        "string_view": "cpp",
+        "tuple": "cpp",
+        "new": "cpp",
+        "iosfwd": "cpp",
+        "typeinfo": "cpp",
+        "ostream": "cpp",
+        "fstream": "cpp"
+    }
+}
